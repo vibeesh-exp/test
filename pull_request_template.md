@@ -1,10 +1,11 @@
 ### Description
 
-Please include a summary of the change or issue fix. Please also include relevant motivation and context. List any dependencies that are required for this change.
+When you raise a PR, include 
+- a summary of the change or issue fix. 
+- Relevant motivation and context.
+- List any dependencies that are required for this change.
 
 ## Type of changes
-
-Please delete options that are not relevant.
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
@@ -14,6 +15,7 @@ Please delete options that are not relevant.
 
 ### Screenshots
 Add screenshots (if any)
+
 
 ## Checklist
 ### Scope & Quality
@@ -42,7 +44,7 @@ Add screenshots (if any)
 ---
 
 ### Testing & Validation
-- [ ] Appropriate **unit and/or integration tests** are added or updated
+- [ ] Appropriate **unit tests** are added or updated
 - [ ] All new and existing tests **pass locally**
 - [ ] Error paths and edge cases are covered where applicable
 
@@ -69,5 +71,5 @@ Add screenshots (if any)
 
 ---
 
-## 🧠 Notes for Reviewers
+## Notes for Reviewers
 <!-- Call out areas that need special attention or context -->
